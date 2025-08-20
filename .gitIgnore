@@ -1,0 +1,41 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments (delete if already committed!)
+.env
+.venv
+env/
+venv/
+source/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Git metadata
+.git/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test and coverage outputs
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node or frontend (if applicable)
+node_modules/
+dist/
+build/
