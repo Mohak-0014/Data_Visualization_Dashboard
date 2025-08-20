@@ -31,5 +31,3 @@ This is a simple Streamlit application for uploading, exploring, and visualizing
 - `app.py` — Main Streamlit application
 - `requirements.txt` — Python dependencies
 
----
-Built with ❤️ using [Streamlit](https://streamlit.io/)
